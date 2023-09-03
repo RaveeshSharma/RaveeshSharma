@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 💬 Ask me about **C++, C, Python, Problem Solving, HTML, CSS**
+- 💬 My skill are **C++, Problem Solving, Object Oriented Programming, DBMS, SQL and Operating Systems**
 
 - 📫 How to reach me **raveeshsharma2002@gmail.com**
 
