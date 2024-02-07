@@ -3,9 +3,9 @@
 <h3 align="center">A Computer Engineering undergrad at J.C. Bose University Of Science And Technology, Faridabad</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 My skill are **C++, Problem Solving, Object Oriented Programming, DBMS, SQL and Operating Systems**
+- 💬 I am proficient in **C++, Python, Data Structures and Algorithms, Problem Solving, Object Oriented Programming, DBMS, SQL and Operating Systems**
 
 - 📫 How to reach me **raveeshsharma2002@gmail.com**
 
